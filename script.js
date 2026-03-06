@@ -113,7 +113,7 @@ const startButtons = {
   int: document.getElementById("B1")
 };
 const startButtonImages = {
-  tech: { off: "texture/A1.png", on: "texture/A2.png" },
+  tech: { off: "texture/Edit-A1.png", on: "texture/Edit-A2.png" },
   int: { off: "texture/B1.png", on: "texture/B2.png" }
 };
 
